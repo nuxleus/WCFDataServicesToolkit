@@ -1,0 +1,5 @@
+C:\Misc\Projects\Kyte\dev\wcfdataservicestoolkit\code\Microsoft.Data.Services.Toolkit\bin\Release\Microsoft.Data.Services.Toolkit.dll
+C:\Misc\Projects\Kyte\dev\wcfdataservicestoolkit\code\Microsoft.Data.Services.Toolkit\bin\Release\Microsoft.Data.Services.Toolkit.pdb
+C:\Misc\Projects\Kyte\dev\wcfdataservicestoolkit\code\Microsoft.Data.Services.Toolkit\obj\Release\ResolveAssemblyReference.cache
+C:\Misc\Projects\Kyte\dev\wcfdataservicestoolkit\code\Microsoft.Data.Services.Toolkit\obj\Release\Microsoft.Data.Services.Toolkit.dll
+C:\Misc\Projects\Kyte\dev\wcfdataservicestoolkit\code\Microsoft.Data.Services.Toolkit\obj\Release\Microsoft.Data.Services.Toolkit.pdb

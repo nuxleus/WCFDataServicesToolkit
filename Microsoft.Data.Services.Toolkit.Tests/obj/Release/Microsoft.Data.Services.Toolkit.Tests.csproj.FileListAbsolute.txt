@@ -1,0 +1,10 @@
+C:\Misc\Projects\Kyte\dev\wcfdataservicestoolkit\code\Microsoft.Data.Services.Toolkit.Tests\bin\Release\Microsoft.Data.Services.Toolkit.Tests.dll
+C:\Misc\Projects\Kyte\dev\wcfdataservicestoolkit\code\Microsoft.Data.Services.Toolkit.Tests\bin\Release\Microsoft.Data.Services.Toolkit.Tests.pdb
+C:\Misc\Projects\Kyte\dev\wcfdataservicestoolkit\code\Microsoft.Data.Services.Toolkit.Tests\bin\Release\Microsoft.Data.Services.Toolkit.dll
+C:\Misc\Projects\Kyte\dev\wcfdataservicestoolkit\code\Microsoft.Data.Services.Toolkit.Tests\bin\Release\Moq.dll
+C:\Misc\Projects\Kyte\dev\wcfdataservicestoolkit\code\Microsoft.Data.Services.Toolkit.Tests\bin\Release\Microsoft.Data.Services.Toolkit.pdb
+C:\Misc\Projects\Kyte\dev\wcfdataservicestoolkit\code\Microsoft.Data.Services.Toolkit.Tests\bin\Release\Moq.pdb
+C:\Misc\Projects\Kyte\dev\wcfdataservicestoolkit\code\Microsoft.Data.Services.Toolkit.Tests\bin\Release\Moq.xml
+C:\Misc\Projects\Kyte\dev\wcfdataservicestoolkit\code\Microsoft.Data.Services.Toolkit.Tests\obj\Release\ResolveAssemblyReference.cache
+C:\Misc\Projects\Kyte\dev\wcfdataservicestoolkit\code\Microsoft.Data.Services.Toolkit.Tests\obj\Release\Microsoft.Data.Services.Toolkit.Tests.dll
+C:\Misc\Projects\Kyte\dev\wcfdataservicestoolkit\code\Microsoft.Data.Services.Toolkit.Tests\obj\Release\Microsoft.Data.Services.Toolkit.Tests.pdb

@@ -1,5 +1,0 @@
-C:\Misc\Projects\Kyte\dev\wcfdataservicestoolkit\code\Microsoft.Data.Services.Toolkit\bin\Debug\Microsoft.Data.Services.Toolkit.dll
-C:\Misc\Projects\Kyte\dev\wcfdataservicestoolkit\code\Microsoft.Data.Services.Toolkit\bin\Debug\Microsoft.Data.Services.Toolkit.pdb
-C:\Misc\Projects\Kyte\dev\wcfdataservicestoolkit\code\Microsoft.Data.Services.Toolkit\obj\Debug\ResolveAssemblyReference.cache
-C:\Misc\Projects\Kyte\dev\wcfdataservicestoolkit\code\Microsoft.Data.Services.Toolkit\obj\Debug\Microsoft.Data.Services.Toolkit.dll
-C:\Misc\Projects\Kyte\dev\wcfdataservicestoolkit\code\Microsoft.Data.Services.Toolkit\obj\Debug\Microsoft.Data.Services.Toolkit.pdb
